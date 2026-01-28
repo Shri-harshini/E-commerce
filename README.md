@@ -8,5 +8,5 @@ Designed with simplicity and elegance in mind, the project uses soft pastel colo
 This project is ideal for beginners looking to learn how to design aesthetic, user-friendly web pages using just HTML and CSS. It demonstrates how good layout, typography, and color coordination can come together to build a professional-looking website even without JavaScript or backend systems.
 In the future, the project could be enhanced with features like a shopping cart, online payment integration, customer reviews, and a real-time order tracking system.
 
-Created with love and creativity, FloralAura is more than just a website it’s a celebration of design, simplicity, and the art of giving. 🌷
+Created with love and creativity, FloralAura is more than just a website it’s a celebration of design, simplicity, and the art of giving. 
 
